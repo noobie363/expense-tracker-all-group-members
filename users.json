@@ -1,0 +1,40 @@
+[
+    {
+        "userName": "couscous",
+        "password": "lol",
+        "budgets": {
+            "monthly": 0,
+            "categories": {}
+        },
+        "expenses": [
+            {
+                "id": "ca846e67-6da1-48db-acd4-f4f3cd748fd5",
+                "amount": 20.0,
+                "category": "food",
+                "date": "2026-01-29T23:36:44.013324",
+                "description": ""
+            }
+        ],
+        "income": [
+            {
+                "id": "4ec4fb92-32ff-4798-b588-4e6c2f5ff73c",
+                "amount": 300.0,
+                "category": "Investment",
+                "date": "2026-01-29T23:37:25.856864",
+                "description": "Stocks"
+            }
+        ],
+        "categories": [
+            "Food",
+            "Transport",
+            "Entertainment",
+            "Utilities",
+            "Other"
+        ],
+        "income_categories": [
+            "Salary",
+            "Freelance",
+            "Gift"
+        ]
+    }
+]

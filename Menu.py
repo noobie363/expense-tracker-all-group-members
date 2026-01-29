@@ -1,0 +1,10 @@
+def show_main_menu(username):
+    print("\n---Welcome---")
+    print(f"Your personal expense tracker, {username}!")
+    print("Please choose an option:")
+    print("1. Manage Expenses (Add, Edit, Remove)")
+    print("2. Manage Income (Add, Edit, Remove)")
+    print("3. Manage Categories")
+    print("4. Financial Reports")
+    print("5. Budgets and Alerts")
+    print("6. Exit")
